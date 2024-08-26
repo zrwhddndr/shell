@@ -16,4 +16,3 @@ jobs: # 开始定义要执行的任务
           root
           EOD
       - name: step2
-      ....
